@@ -1,6 +1,5 @@
 """ Programmer: Walter Reeves """
-from tkinter import *
-from tkinter import ttk
+from tkinter import Tk, ttk
 
 
 def get_entry():
